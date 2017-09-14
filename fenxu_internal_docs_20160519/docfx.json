@@ -22,7 +22,8 @@
         ],
         "exclude": [
           "**/obj/**",
-          "fenxu_internal_docs_20160519/**"
+          "fenxu_internal_docs_20160519/**",
+          "_themes/**"
         ],
         "src": null,
         "dest": null
